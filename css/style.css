@@ -73,10 +73,10 @@ h1{
     
 }
 aside.left img{
-    width: 100px;
+    width: 6.5em;
 }
 aside.right img{
-    width: 200px;
+    width: 6.5em;
 }
 a{
     background-color: aliceblue;
@@ -243,17 +243,14 @@ aside{
     .container{
         width: 100%;
     }
-    main{
-        
-    }
-    aside{}
+    
     div.gameboy img{
         margin-left: 25%;
         width: 8em;
     }
     aside img{
-        width: 1.5em;
-        flex-direction: column;
+        width: 3em;
+        
     }
     footer{
         width: 12.6em;
