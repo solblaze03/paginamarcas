@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+*{
+    margin: 0;
+}
+section{
+    background-color: #1e1e1e;
+}
+img{
+    margin-left: 35%;
+    margin-right: 25%;
+    border: gray solid;
+    border-radius: 35px;
+}
+h1{
+    text-align: center;
+    background-color: #1e1e1e;
+    border-radius :25px ;
+    margin-bottom: 10px;
+}
+ul{
+    list-style: none;
+}
