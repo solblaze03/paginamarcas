@@ -2,7 +2,7 @@ body{
     background-color: black;
     color: white;
     font-family: monospace;
-    font-size: 25px;
+    font-size: 45px;
     margin-top: 3%;
     margin-left: 5%;
     margin-right: 5%;
@@ -13,11 +13,11 @@ body{
 section{
     background-color: #1e1e1e;
 }
-img{
-    margin-left: 35%;
-    margin-right: 25%;
+header img{
+    
     border: gray solid;
     border-radius: 35px;
+    width: 8em;
 }
 h1{
     text-align: center;
@@ -27,4 +27,45 @@ h1{
 }
 ul{
     list-style: none;
+    line-height: 140%;
+}
+
+footer{
+    background-color: #1e1e1e;
+    margin:  30px;
+    border-radius: 35px;
+    padding: 20px;
+    
+}
+footer h2{
+    text-align: center;
+}
+footer img{
+    width: 3em;
+
+}
+p.imagen{
+    text-align: center;
+}
+footer img{
+    padding-left: 35px;
+}
+footer section{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.botones {
+    width: 7em;
+    font-size: 55px;
+    border-radius: 55em;
+    margin-top: 40px;
+}
+.botones:hover {
+    width: 7em;
+    font-size: 55px;
+    border-radius: 55em;
+    background-color: #1e1e1e;
+    color: white;
+    box-shadow: red 0 0 20px 10px;
 }
